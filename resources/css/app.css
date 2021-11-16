@@ -1,0 +1,16 @@
+/* @import "~bulma/sass/utilities/intial-variables.sass";
+@import 'variables';
+$fa-font-path: "../webfonts";
+
+/* $fa-font-path: "~font-awesome/fonts"; */
+/* @import "~font-awesome/scss/font-awesome"; */
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import 'admin-lte/dist/css/adminlte.css';
+
+
+/* @import "~@fontawesome/fontawesome-free/scss/fontawesome.scss";
+@import "~@fontawesome/fontawesome-free/scss/solid.scss";
+@import "~@fontawesome/fontawesome-free/scss/brands.scss"; */
